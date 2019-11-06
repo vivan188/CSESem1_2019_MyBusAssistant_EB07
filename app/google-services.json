@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033254323269",
+    "firebase_url": "https://silicon-bivouac-255410.firebaseio.com",
+    "project_id": "silicon-bivouac-255410",
+    "storage_bucket": "silicon-bivouac-255410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033254323269:android:efa2064c7469ca40680f2c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033254323269-0l9qt17m26c6vddu0m73fftutti8102s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "1629d42039aefe329f4b1d9c1a1bacc1444346a4"
+          }
+        },
+        {
+          "client_id": "1033254323269-p0c6e3c9s5p7ahd2o1ujhbim2894cvb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA65cwuhuZi_1snmAS60WX1-wGUN_phkLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033254323269-07s113qmh9v08vdokc4mp5ofsgugls3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
